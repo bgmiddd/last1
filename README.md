@@ -58,7 +58,7 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 
    ```sh
    chmod +x *
-   python venom.py
+   python last.py
    ```
 
 2. Interact with the bot on Telegram using the available commands.
